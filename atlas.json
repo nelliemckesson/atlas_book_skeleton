@@ -25,9 +25,10 @@
     },
     "html": {
       "toc": true,
-      "index": false
+      "index": false,
+      "consolidated": false
     }
   },
-  "theme": "oreillymedia/oreilly_missingmanual_theme",
+  "theme": "oreillymedia/atlas_trade_theme",
   "title": "atlas book skeleton"
 }
